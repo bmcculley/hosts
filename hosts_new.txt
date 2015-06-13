@@ -1,5 +1,5 @@
 
-0.0.0.0	localhost
+127.0.0.1 localhost # please don't point this to 0.0.0.0
 0.0.0.0	0koryu0.easter.ne.jp
 0.0.0.0	109-204-26-16.netconnexion.managedbroadband.co.uk
 0.0.0.0	11.lamarianella.info
@@ -1423,8 +1423,6 @@
 0.0.0.0	zu-yuan.com
 0.0.0.0	zwierzu.zxy.me
 0.0.0.0	zyrdu.cruisingsmallship.com
-0.0.0.0 localhost
-::1 localhost #[IPv6]
 0.0.0.0	fr.a2dfp.net
 0.0.0.0	m.fr.a2dfp.net
 0.0.0.0	mfr.a2dfp.net
