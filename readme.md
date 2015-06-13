@@ -1,8 +1,8 @@
 #### Alright, so I just forked this and will be making some changes very soon...
 
-I don't agree with, in fact I strongly disagree with point localhost at 0.0.0.0 If you're running a local server, ipython notebook, or anything like that you'll quickly find that you're SOL. What a terrible idea.
+I don't agree with, in fact I strongly disagree with pointing localhost at 0.0.0.0 If you're running a local server, ipython notebook, or anything like that you'll quickly find that you're SOL. So, I feel that it's a terrible idea.
 
-Also, I'll rework the code to remove the duplicates, and make things more uniform. This as opposed to just willy-nilly grabbing everything and throwing it inline into a hosts file.
+Also, I'll rework the code to remove the duplicates, and make things more uniform.
 
 Oh...if you need a hosts file in the mean time, please check out [hosts_new.txt](https://github.com/bmcculley/hosts/blob/master/hosts_new.txt).
 
