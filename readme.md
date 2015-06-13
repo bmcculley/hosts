@@ -4,6 +4,8 @@ I don't agree with, in fact I strongly disagree with point localhost at 0.0.0.0 
 
 Also, I'll rework the code to remove the duplicates, and make things more uniform. This as opposed to just willy-nilly grabbing everything and throwing it inline into a hosts file.
 
+Oh...if you need a hosts file in the mean time, please check out [hosts_new.txt](https://github.com/bmcculley/hosts/blob/master/hosts_new.txt).
+
 #Amalgamated hosts file
 
 This repo consolidates several reputable `hosts` files and consolidates them into a single hosts file that you can use.
