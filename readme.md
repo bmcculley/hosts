@@ -1,3 +1,9 @@
+#### Alright, so I just forked this and will be making some changes very soon...
+
+I don't agree with, in fact I strongly disagree with point localhost at 0.0.0.0 If you're running a local server, ipython notebook, or anything like that you'll quickly find that you're SOL. What a terrible idea.
+
+Also, I'll rework the code to remove the duplicates, and make things more uniform. This as opposed to just willy-nilly grabbing everything and throwing it inline into a hosts file.
+
 #Amalgamated hosts file
 
 This repo consolidates several reputable `hosts` files and consolidates them into a single hosts file that you can use.
